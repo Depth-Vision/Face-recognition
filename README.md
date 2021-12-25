@@ -1,7 +1,8 @@
 # Face-recognition
 
-### 基于opencv的人脸识别
+![image](https://github.com/Depth-Vision/Face-recognition/blob/main/Show.gif)
 
+### 基于opencv的人脸识别
 
 #### 项目要求
 
