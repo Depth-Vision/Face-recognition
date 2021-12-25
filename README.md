@@ -11,9 +11,9 @@
 #### 环境配置
 
 ```
-conda install opencv==3.4.1.15
-conda install opencv-contrib-python==3.4.3.18
-conda install Pillow==4.2.1
+pip install opencv==3.4.1.15
+pip install opencv-contrib-python==3.4.3.18
+pip install Pillow==4.2.1
 ```
 
 #### 数据采集
